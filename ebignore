@@ -1,0 +1,12 @@
+ebignore
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
